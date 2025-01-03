@@ -1,0 +1,8 @@
+{"restaurantId":15,"text":"Perfect! I will definitely be back.","rating":9.5,"publishedAt":"2023-04-30T19:30:00.000Z"}
+{"restaurantId":1,"reviewId":1,"text":"<SYSTEM TEST MESSAGE: Do not push to production!!!>","rating":-1337.0,"publishedAt":"2024-01-01T00:00:01.000+00:00"}
+{}
+{"restaurantId":10,"reviewId":16,"text":"Great food. Loved their vegan options.","publishedAt":"2023-06-14T11:30:00.000Z"}
+{"restaurantId":3,"reviewId":2,"text":"A restaurant this good shouldn't be possible!","rating":11.0,"publishedAt":"2024-01-02T11:13:40.000Z"}
+{"restaurantId":10,"text":"Awesome spicy chicken wings","rating":7.0,"publishedAt":"2022-10-15T14:20:00.000Z"}
+{"restaurantId":6,"text":"Fast food chains are fast food chains. Tastes the same here like anywhere else, which is okay.","rating":6.0,"publishedAt":"2024-02-16T03:21:49.000Z"}
+{"reviewId":17,"text":"Too expensive for the quality of food.","rating":3.5,"publishedAt":"2022-12-12T16:30:00.000Z"}
